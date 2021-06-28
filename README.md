@@ -1,6 +1,6 @@
 - 👋 Olá, sou @pablogineli
 - 👀 Estou interessado em desenvolver soluçôes para provedores de pequeno e grande porte 
-- 🌱 Atualmente estou aprendendo PHP, SQL, HTML, JAVASCRIPT e REACT 😀
+- 🌱 Atualmente estou aprendendo PHP, SQL, HTML, JAVASCRIPT e NODE.JS 😀
 - 📫 Como chegar até mim 
 - <a href="https://www.linkedin.com/in/pablo-paiva-gineli-ba8189142/" target="_blank">Linkedin</a>
 <!---
